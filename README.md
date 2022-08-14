@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manish1102
 - 👀 I’m interested in U
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on MS
 - 📫 How to reach me No
 
